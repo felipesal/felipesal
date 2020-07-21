@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, my name is Felipe Salles Faller
 
 <!--
 **felipesal/felipesal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
