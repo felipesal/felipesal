@@ -11,7 +11,7 @@ My skills are:
 - MySQL
 - MongoDB
 
-I have passion for learning and the development is that, it is infinite learning. There is always something we can learn.
+I have passion for learning and the development is a infinite learning. There is always something we can learn.
 
 Currently i'm a Detection Fraud Analist in a financial startup. But I would like to work as a developer.
 
