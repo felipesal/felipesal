@@ -2,7 +2,7 @@
 
 I'm a beginner Java Developer, I have approximately one year of experience, but I consider myself prepared for the labor market.
 
-My skills are:
+My skills:
 - Java 8+
 - Spring Framework
 - JPA
@@ -10,6 +10,7 @@ My skills are:
 - SQL
 - MySQL
 - MongoDB
+- JWT
 
 I have passion for learning and the development is a infinite learning. There is always something we can learn.
 
