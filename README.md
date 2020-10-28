@@ -14,7 +14,7 @@ My skills:
 
 I have passion for learning and the development is a infinite learning. There is always something we can learn.
 
-Currently i'm a Detection Fraud Analist in a financial startup. But I would like to work as a developer.
+Currently i'm a Back End Developer in a financial startup. 
 
 
 
