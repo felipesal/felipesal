@@ -11,6 +11,9 @@ My skills:
 - MySQL
 - MongoDB
 - JWT
+- PHP 7+
+- Laravel
+- Lumen
 
 I have passion for learning and the development is a infinite learning. There is always something we can learn.
 
