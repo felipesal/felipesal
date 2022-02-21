@@ -14,6 +14,7 @@ My skills:
 - PHP 7+
 - Laravel
 - Lumen
+- RabbitMQ
 
 I have passion for learning and the development is a infinite learning. There is always something we can learn.
 
